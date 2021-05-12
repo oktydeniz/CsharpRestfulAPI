@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "aUW1Ba5l/pF4iyS8w2gDwFnzZCnoVR30p/GlDLpzCM1ghMrBqM5hbchRZRPYHZew+VPG/MvHrDfA2H30w/XqSg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oktay\\source\\repos\\RestfulAPI\\RestfulAPI\\RestfulAPI.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oktay\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.1\\microsoft.netcore.platforms.5.0.1.nupkg.sha512",
+    "C:\\Users\\oktay\\.nuget\\packages\\microsoft.win32.registry\\5.0.0\\microsoft.win32.registry.5.0.0.nupkg.sha512",
+    "C:\\Users\\oktay\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\oktay\\.nuget\\packages\\system.security.accesscontrol\\5.0.0\\system.security.accesscontrol.5.0.0.nupkg.sha512",
+    "C:\\Users\\oktay\\.nuget\\packages\\system.security.principal.windows\\5.0.0\\system.security.principal.windows.5.0.0.nupkg.sha512",
+    "C:\\Users\\oktay\\.nuget\\packages\\system.speech\\5.0.0\\system.speech.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
